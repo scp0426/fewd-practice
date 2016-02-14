@@ -1,0 +1,43 @@
+html {
+	font-family: "arial", sans-serif
+}
+
+#main {
+	border-top-style: solid;
+	border-top-width: 5px;
+	border-bottom: solid 5px;
+}
+
+#header	{
+	text-align: center;
+	font-weight: bold;	
+}
+
+img {
+	
+	float: right;
+	margin-top: 10px;
+	margin-right: 50px;
+	border: solid 2px black;
+	padding: 4px;
+	margin-left: 10px;
+}
+
+#section {
+	border-top: solid 1px;
+	text-align: left;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-top: 10px;
+}
+
+#FOOTER {
+margin-left: 100px;
+font-weight: bold;
+font-color: black;
+padding-bottom: 50px;
+}
+
+a {
+	color: black;
+}
